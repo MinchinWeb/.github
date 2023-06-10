@@ -2,11 +2,11 @@
 
 ## Purpose
 
-The founder of this project, and all of the current developers at the time when
+The Founder of this project, and all of the current developers at the time when
 this document was composed, have pledged to govern their interactions with each
-other, with their clients, and with the larger this project's user community in
-accordance with the "instruments of good works" from chapter 4 of [The Rule of
-St. Benedict](https://en.wikipedia.org/wiki/Rule_of_Saint_Benedict) (hereafter:
+other and with the larger this project's user community in accordance with the
+"instruments of good works" from chapter 4 of [The Rule of St.
+Benedict](https://en.wikipedia.org/wiki/Rule_of_Saint_Benedict) (hereafter:
 "The Rule"). This code of ethics has proven its mettle in thousands of diverse
 communities for over 1,500 years, and has served as a baseline for many civil
 law codes since the time of Charlemagne.
@@ -16,12 +16,13 @@ law codes since the time of Charlemagne.
 No one is required to follow The Rule, to know The Rule, or even to think that
 The Rule is a good idea. The Founder of this project believes that anyone who
 follows The Rule will live a happier and more productive life, but individuals
-are free to dispute or ignore that advice if they wish. The founder of this
-project and all current developers have pledged to follow the spirit of The
-Rule to the best of their ability. They view The Rule as their promise to all
-project users of how the developers are expected to behave. This is a one-way
-promise, or covenant. In other words, the developers are saying: "We will treat
-you this way regardless of how you treat us."
+are free to dispute or ignore that advice if they wish.
+
+The Founder of this project and all current developers have pledged to follow
+the spirit of The Rule to the best of their ability. They view The Rule as
+their promise to all project users of how the developers are expected to
+behave. This is a one-way promise, or covenant. In other words, the developers
+are saying: "We will treat you this way regardless of how you treat us."
 
 ## The Rule
 

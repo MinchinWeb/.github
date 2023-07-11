@@ -2,10 +2,10 @@
 
 ## Purpose
 
-The Founder of this project, and all of the current developers at the time when
-this document was composed, have pledged to govern their interactions with each
-other and with the larger this project's user community in accordance with the
-"instruments of good works" from chapter 4 of [The Rule of St.
+The Founder of this project and the current developers have pledged to govern
+their interactions with each other and with this project's larger user
+community in accordance with the "instruments of good works" from chapter 4 of
+[The Rule of St.
 Benedict](https://en.wikipedia.org/wiki/Rule_of_Saint_Benedict) (hereafter:
 "The Rule"). This code of ethics has proven its mettle in thousands of diverse
 communities for over 1,500 years, and has served as a baseline for many civil
